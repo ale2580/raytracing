@@ -1,0 +1,4 @@
+C:\Users\Aleks\Desktop\2021Spring\CompGraph\Tracer\RaySkelS20\RaySkelS20\Debug\ray.exe
+C:\Users\Aleks\Desktop\2021Spring\CompGraph\Tracer\RaySkelS20\RaySkelS20\Debug\ray.pdb
+C:\Users\Aleks\Desktop\2021Spring\CompGraph\Tracer\assignment3\RaySkelS20\RaySkelS20\Debug\ray.exe
+C:\Users\Aleks\Desktop\2021Spring\CompGraph\Tracer\assignment3\RaySkelS20\RaySkelS20\Debug\ray.pdb
